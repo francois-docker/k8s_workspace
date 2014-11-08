@@ -1,6 +1,6 @@
 Docker - k8s_workspace
 ==============
-This container is used a an admin machine for kubernetes cluster. 
+This container is used as an admin machine for kubernetes cluster. 
 
 Requirements
 ------------
