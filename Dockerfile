@@ -9,7 +9,7 @@ MAINTAINER Francois Billant <fbillant@gmail.com>
 EXPOSE 22
 
 RUN apt-get update && \ 
-apt-get -y install git ssh vim wget && \
+apt-get -y install git ssh vim wget tmux && \
 apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 # install Kubecfg 
