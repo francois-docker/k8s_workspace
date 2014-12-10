@@ -1,10 +1,11 @@
-Docker - k8s_workspace
+Docker - k8s_calamari
 ==============
-This container is used as an admin machine for kubernetes cluster. 
+Currently in early stage "dev" - not even usable for now
+This container runs the cepph-calamari gui to manage a ceph cluster
 
 Requirements
 ------------
-This container is made to spawn on a working kubernetes cluster
+TODO
 
 Environment variables
 ----------
